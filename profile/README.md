@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Sageoz" width="200" height="200" />
+  <img src="logo_dark.svg" alt="Sageoz" width="200" height="200" />
 </p>
 
 <h1 align="center">Sageoz</h1>
