@@ -79,8 +79,8 @@ batho hooks install --all
 Start with Batho or any of our projects. Build something cool. Share your experience.
 
 ### **Contribute Code**
-- Found a bug? [Open an issue](https://github.com/sageoz)
-- Have a feature idea? [Start a discussion](https://github.com/sageoz)
+- Found a bug? [Open an issue](https://github.com/sageoz/batho/issues)
+- Have a feature idea? [Start a discussion](https://github.com/sageoz/batho/discussions)
 - Ready to code? Check out `CONTRIBUTING.md` in any project repo
 
 ### **Improve Documentation**
@@ -105,14 +105,14 @@ Star our repos, write about us, and help other developers discover Sageoz.
 - Specialized infrastructure for AI model training on code
 
 ### Have an Idea?
-We're always looking for new projects that advance AI infrastructure. [Start a discussion](https://github.com/sageoz) to propose your idea!
+We're always looking for new projects that advance AI infrastructure. [Start a discussion](https://github.com/sageoz/batho/discussions) to propose your idea!
 
 ---
 
 ## 🤝 Community & Support
 
-- **GitHub Issues**: [Report bugs and request features](https://github.com/sageoz)
-- **Discussions**: [Share ideas and get help](https://github.com/sageoz)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/sageoz/batho/issues)
+- **Discussions**: [Share ideas and get help](https://github.com/sageoz/batho/discussions)
 - **Documentation**: [Learn more about our tools](https://github.com/sageoz/batho)
 
 ---
